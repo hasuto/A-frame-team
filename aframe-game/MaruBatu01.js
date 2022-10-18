@@ -20,6 +20,9 @@ var cursor;
 
 var isMouseDown = false;
 
+var mondaibun = document.getElementById("mondaibun");
+console.log(mondaibun.getAttribute('visible'));
+
 
 // let element = document.getElementById('text');
 // console.log(element.children[0].data-text);
